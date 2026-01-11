@@ -1,0 +1,11 @@
+C:\DAW-ENCLASE\PARCIAL-II\proyectoP2\ClasesVotafacil\bin\Debug\net6.0\ClasesVotafacil.deps.json
+C:\DAW-ENCLASE\PARCIAL-II\proyectoP2\ClasesVotafacil\bin\Debug\net6.0\ClasesVotafacil.dll
+C:\DAW-ENCLASE\PARCIAL-II\proyectoP2\ClasesVotafacil\bin\Debug\net6.0\ClasesVotafacil.pdb
+C:\DAW-ENCLASE\PARCIAL-II\proyectoP2\ClasesVotafacil\obj\Debug\net6.0\ClasesVotafacil.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAW-ENCLASE\PARCIAL-II\proyectoP2\ClasesVotafacil\obj\Debug\net6.0\ClasesVotafacil.AssemblyInfoInputs.cache
+C:\DAW-ENCLASE\PARCIAL-II\proyectoP2\ClasesVotafacil\obj\Debug\net6.0\ClasesVotafacil.AssemblyInfo.cs
+C:\DAW-ENCLASE\PARCIAL-II\proyectoP2\ClasesVotafacil\obj\Debug\net6.0\ClasesVotafacil.csproj.CoreCompileInputs.cache
+C:\DAW-ENCLASE\PARCIAL-II\proyectoP2\ClasesVotafacil\obj\Debug\net6.0\ClasesVotafacil.dll
+C:\DAW-ENCLASE\PARCIAL-II\proyectoP2\ClasesVotafacil\obj\Debug\net6.0\refint\ClasesVotafacil.dll
+C:\DAW-ENCLASE\PARCIAL-II\proyectoP2\ClasesVotafacil\obj\Debug\net6.0\ClasesVotafacil.pdb
+C:\DAW-ENCLASE\PARCIAL-II\proyectoP2\ClasesVotafacil\obj\Debug\net6.0\ref\ClasesVotafacil.dll
